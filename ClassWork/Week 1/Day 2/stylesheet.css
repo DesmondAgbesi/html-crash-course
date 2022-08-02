@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* things that the BORDER takes
+    takes the size attribute
+    also takes the style attribute
+    also takes the color attribute */
+
+    /* MARGINS
+    1. Size
+    2.  */
+
+h1 {
+    text-align:center;
+    color: white;
+    background-color: teal;
+    font-weight:400;
+    font-style:italic;
+    padding: 30px;
+    border:10px 0 0 0 groove grey;
+    margin-top: 10px;
+}
+
+p {
+    text-transform: lowercase;
+    /* text-decoration: underline teal; */
+    font-size: 30px;
+    }
